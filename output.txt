@@ -1,0 +1,7 @@
+Welcome to javaTpoint.the text
+more text
+the text
+more text
+This will be visible on the last part of file
+
+Hello I wil be printed at last line.
